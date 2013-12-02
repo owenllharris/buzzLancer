@@ -9,3 +9,9 @@
 /BuzzLancer/BuzzLancer-csharp.sln
 
 /BuzzLancer/BuzzLancer.sln
+
+/Build
+
+*.
+
+.DS_Store
