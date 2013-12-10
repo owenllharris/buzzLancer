@@ -172,6 +172,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 499432651}
   - 114: {fileID: 499432652}
+  - 114: {fileID: 499432653}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -204,6 +205,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 408455781}
+  destroyable: {fileID: 499432653}
+--- !u!114 &499432653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 499432650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7e5c8095b6db4489804f76433b30042, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MaxHealth: 100
+  Health: 80
 --- !u!1 &1085152522
 GameObject:
   m_ObjectHideFlags: 0
