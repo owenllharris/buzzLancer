@@ -1,8 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../Multi/Assets/Code/NetworkManager.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/Player.cs">
     <Files>
-      <File FileName="../../Multi/Assets/Code/NetworkManager.cs" Line="26" Column="2" />
+      <File FileName="Assets/Code/Player.cs" Line="30" Column="23" />
+      <File FileName="Assets/Code/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/PlayerCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/ProgressBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/ProgressBarRenderer.cs" Line="22" Column="149" />
+      <File FileName="Assets/Code/GameResources.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/PlayerGUI.cs" Line="14" Column="65" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
