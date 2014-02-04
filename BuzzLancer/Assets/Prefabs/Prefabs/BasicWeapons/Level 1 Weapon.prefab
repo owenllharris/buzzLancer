@@ -40,7 +40,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Prefab: {fileID: 11400000, guid: 339a306658d0441f3899d3adc61ceda3, type: 2}
   Speed: 200
-  Damage: 10
+  Damage: 35
   FireRate: .0900000036
   TimeToLive: 2
 --- !u!1001 &100100000

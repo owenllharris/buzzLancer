@@ -12,6 +12,7 @@ namespace Assets.Code
 				Destroy( _weapon.gameObject );
 
 			_weapon = (BasicWeapon)Instantiate( weaponPrefab );
+			_weapon.transform.parent = transform;
 		}
 
 		public void Fire( Vector3 direction )
